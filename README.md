@@ -1,14 +1,14 @@
 # Hi, I'm Pau 👋
 
-### Chemical Engineer · Business & Digital Transformation Consultant · AI Project Manager
+### Chemical Engineer · Business & Digital Transformation Consultant · Project Manager | AI Adoption
 
-I'm a **Chemical Engineer, Business Consultant and Project Manager with 10+ years of experience** across consulting, technology, banking, industrial environments and the social sector.
+I'm a **Chemical Engineer, Business Consultant and Project Manager with 9+ years of professional experience** across consulting, technology, banking, industrial environments and the social sector.
 
 My career has evolved from **engineering and industrial project management into strategy consulting, digital transformation, data and AI**, giving me a multidisciplinary perspective that connects **business, technology, operations and people**.
 
 Over the last three years, I have worked in the social and impact sector, leading strategic and digital transformation projects and mentoring organisations and technology-driven initiatives through the definition, validation and implementation of new solutions.
 
-I work at the intersection of business needs and technology: understanding complex problems, defining strategies and solutions, coordinating implementation and turning digital technologies into practical business value.
+I work at the intersection of **business needs and technology**: understanding complex problems, defining strategies and solutions, coordinating implementation and turning digital technologies into practical business value.
 
 Currently completing a **Master's Degree in Industry 4.0 at Universitat Politècnica de Catalunya (UPC)**, with hands-on work in Digital Twins, simulation, IoT, data analytics and AI-enabled solutions.
 
@@ -16,10 +16,10 @@ Currently completing a **Master's Degree in Industry 4.0 at Universitat Politèc
 
 ## 🔧 What I Do
 
-- **Business and strategy Consulting** → diagnosis, business models, feasibility, strategic roadmaps and decision support
+- **Business & Strategy Consulting** → diagnosis, business models, feasibility, strategic roadmaps and decision support
 - **Digital Transformation** → digital diagnostics, system mapping, target architectures and transformation roadmaps
 - **AI Adoption** → use-case identification, governance, implementation strategy and organisational adoption
-- **Technology Mentoring** → supporting teams and organisations in shaping, validating and implementing technology-driven projects
+- **Technology & Innovation Mentoring** → supporting teams and organisations in shaping, validating and implementing technology-driven projects
 - **Technology Projects** → translating business requirements into technical solutions and coordinating delivery
 - **Data & Analytics** → data-driven decision support, business intelligence and structured data projects
 - **Industry 4.0** → Digital Twins, simulation, IoT and smart operations
@@ -44,35 +44,63 @@ Currently completing a **Master's Degree in Industry 4.0 at Universitat Politèc
 
 ## 🛠️ Technology & Methods
 
-### Strategy & Transformation
+### 🔵 Strategy & Transformation
 
-`Strategy Consulting` · `Digital Transformation` · `Business Analysis` · `Business Models` · `Feasibility` · `Roadmapping` · `Change Management`
+![Strategy Consulting](https://img.shields.io/badge/Strategy_Consulting-2563EB?style=flat-square)
+![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-2563EB?style=flat-square)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-2563EB?style=flat-square)
+![Business Models](https://img.shields.io/badge/Business_Models-2563EB?style=flat-square)
+![Feasibility](https://img.shields.io/badge/Feasibility-2563EB?style=flat-square)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-2563EB?style=flat-square)
+![Change Management](https://img.shields.io/badge/Change_Management-2563EB?style=flat-square)
 
-### AI & Technology Adoption
+### 🟣 AI & Technology Adoption
 
-`AI Adoption` · `AI Governance` · `Technology Mentoring` · `Use Case Definition` · `PoC / Pilots` · `Solution Design`
+![AI Adoption](https://img.shields.io/badge/AI_Adoption-7C3AED?style=flat-square)
+![AI Governance](https://img.shields.io/badge/AI_Governance-7C3AED?style=flat-square)
+![Technology Mentoring](https://img.shields.io/badge/Technology_Mentoring-7C3AED?style=flat-square)
+![Use Case Definition](https://img.shields.io/badge/Use_Case_Definition-7C3AED?style=flat-square)
+![PoC / Pilots](https://img.shields.io/badge/PoC_%2F_Pilots-7C3AED?style=flat-square)
+![Solution Design](https://img.shields.io/badge/Solution_Design-7C3AED?style=flat-square)
 
-### Data & Software
+### 🟢 Data & Software
 
-`Python` · `PostgreSQL` · `SQL` · `BigQuery` · `Looker Studio` · `R` · `Docker` · `Git`
+![Python](https://img.shields.io/badge/Python-15803D?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803D?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-15803D?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-15803D?style=flat-square)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-15803D?style=flat-square)
+![R](https://img.shields.io/badge/R-15803D?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-15803D?style=flat-square)
+![Git](https://img.shields.io/badge/Git-15803D?style=flat-square)
 
-### Industry 4.0
+### 🟠 Industry 4.0 & Engineering
 
-`Digital Twins` · `FlexSim` · `IoT` · `MQTT` · `AGV Simulation` · `Industrial Simulation`
+![Digital Twins](https://img.shields.io/badge/Digital_Twins-EA580C?style=flat-square)
+![FlexSim](https://img.shields.io/badge/FlexSim-EA580C?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-EA580C?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-EA580C?style=flat-square)
+![AGV Simulation](https://img.shields.io/badge/AGV_Simulation-EA580C?style=flat-square)
+![Industrial Simulation](https://img.shields.io/badge/Industrial_Simulation-EA580C?style=flat-square)
 
-### Project Delivery
+### ⚫ Project Delivery
 
-`Project Management` · `Discovery` · `Stakeholder Management` · `Workshops` · `Multidisciplinary Teams` · `Implementation`
+![Project Management](https://img.shields.io/badge/Project_Management-374151?style=flat-square)
+![Discovery](https://img.shields.io/badge/Discovery-374151?style=flat-square)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-374151?style=flat-square)
+![Workshops](https://img.shields.io/badge/Workshops-374151?style=flat-square)
+![Multidisciplinary Teams](https://img.shields.io/badge/Multidisciplinary_Teams-374151?style=flat-square)
+![Implementation](https://img.shields.io/badge/Implementation-374151?style=flat-square)
 
 ---
 
 ## 💼 Professional Background
 
-My professional background combines **business & strategy consulting, technology, finance, industrial operations and social impact**.
+My professional background combines **business and strategy consulting, technology, finance, industrial operations and social impact**.
 
 ### Business & Digital Transformation Consultant
 
-For the last three years, I have worked as a consultant and project manager in the social and impact sector, leading multiple projects across social economy sector, industry, energy, mobility, agri-food, technology, digital transformation and innovation.
+For the last three years, I have worked as a consultant and project manager in the social and impact sector, leading projects across the **social economy, industry, energy, mobility, agri-food and technology sectors**, with a strong focus on digital transformation and innovation.
 
 My work spans the full project lifecycle:
 
@@ -134,7 +162,7 @@ I'm particularly interested in projects and roles where:
 
 ### AI + Data + Technology + Business Transformation
 
-come together to create measurable operational, organisational or business impact.
+come together to create measurable **operational, organisational and business impact**.
 
 Current areas of interest:
 
