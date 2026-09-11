@@ -1,41 +1,131 @@
 # Hi, I'm Pau 👋
 
-**Digital Transformation & AI Project Manager | Business × Technology | Industry 4.0**
+### Chemical Engineer · Digital Transformation & AI Project Manager · Business × Technology
 
-I'm a consultant and project manager with an engineering background and experience across digital transformation, data, AI and Industry 4.0.
+I'm a **Chemical Engineer and Project Manager with 9+ years of experience** across consulting, technology, banking, data and industrial environments.
 
-I work at the intersection of **business and technology**: understanding complex problems, defining solutions, coordinating implementation and translating technology into practical business value.
+My career has evolved from **engineering and industrial project management into digital transformation, data and AI**, giving me a multidisciplinary perspective that connects **business, technology, operations and people**.
 
-I'm currently completing a Master's Degree in Industry 4.0 at Universitat Politècnica de Catalunya (UPC), where I'm working on projects involving digital twins, simulation, IoT, data analytics and industrial technologies.
+I work at the intersection of business needs and technology: understanding complex problems, defining solutions, coordinating implementation and turning digital technologies into practical business value.
 
-## Featured projects
+Currently completing a **Master's Degree in Industry 4.0 at Universitat Politècnica de Catalunya (UPC)**, with hands-on work in Digital Twins, simulation, IoT, data analytics and AI-enabled solutions.
 
-### 🤖 [Career Copilot](https://github.com/paumr90/career-copilot)
+---
 
-AI-enabled career management platform designed to structure professional profiles, evaluate opportunities and support the job application lifecycle.
+## 🔧 What I Do
 
-**Focus:** AI · Python · PostgreSQL · Docker · Product Design · Data Governance
+- **Digital Transformation** → digital diagnostics, system mapping, target architectures and transformation roadmaps
+- **AI Adoption** → use-case identification, governance, implementation strategy and organisational adoption
+- **Technology Projects** → translating business requirements into technical solutions and coordinating delivery
+- **Data & Analytics** → data-driven decision support, business intelligence and structured data projects
+- **Industry 4.0** → Digital Twins, simulation, IoT and smart operations
+- **Project Management** → multidisciplinary teams, stakeholders, pilots, implementation and change
 
-### 🏭 Passport Twin
+> My focus is not technology for its own sake, but using it to solve **real operational and business problems**.
 
-Master's Final Project combining Business Intelligence and Digital Twin concepts to turn operational data into a decision-support environment.
+---
 
-**Focus:** Digital Twin · Business Intelligence · Industry 4.0 · Data Analytics
+## 🏆 Featured Projects
 
-### 🚉 FlexSim Transit Simulation
+| Project | Focus | Description |
+|---|---|---|
+| [🤖 Career Copilot](https://github.com/paumr90/career-copilot) | AI · Python · PostgreSQL · Docker | AI-assisted career management and job application decision-support system combining structured data, deterministic rules, governance and LLM capabilities. |
+| 🏭 **Passport Twin** | Digital Twin · BI · Data | Master's Final Project combining Business Intelligence and Digital Twin concepts to transform operational data into a decision-support environment. |
+| 🚉 **Transit Simulation** | FlexSim · Simulation · Optimization | Discrete-event simulation of passenger flows and transport operations to analyse different service frequencies and system performance. |
+| 📡 **Industrial IoT** | IoT · MQTT · Connected Systems | Industry 4.0 project exploring device communication, messaging architectures and industrial data exchange using MQTT. |
+| 🤖 **AGV Picking Simulation** | Intralogistics · AGV · Simulation | Simulation of automated picking and material flows to analyse resource utilisation and operational performance. |
 
-Discrete-event simulation project to model passenger flows and analyse different operational scenarios.
+> More projects and Master's Degree work will be added as the portfolio evolves.
 
-**Focus:** FlexSim · Simulation · Optimization · Operations
+---
 
-### 📡 Industrial IoT & MQTT
+## 🛠️ Technology & Methods
 
-Industrial IoT project exploring communication between devices and systems using MQTT.
+### Digital Transformation & AI
 
-**Focus:** IoT · MQTT · Industry 4.0 · Connected Systems
+`AI Adoption` · `Digital Transformation` · `AI Governance` · `Business Analysis` · `Process Design` · `Change Management`
 
-## Interests
+### Data & Software
 
-I'm particularly interested in projects where **digital transformation, AI, data and operations meet**, especially when technology needs to be translated into practical business solutions.
+`Python` · `PostgreSQL` · `SQL` · `BigQuery` · `Looker Studio` · `R` · `Docker` · `Git`
 
-📍 Barcelona, Spain
+### Industry 4.0
+
+`Digital Twins` · `FlexSim` · `IoT` · `MQTT` · `AGV Simulation` · `Industrial Simulation`
+
+### Project & Transformation Delivery
+
+`Project Management` · `Discovery` · `Digital Diagnostics` · `Roadmapping` · `Business Case` · `PoC / Pilots` · `Workshops` · `Stakeholder Management`
+
+---
+
+## 💼 Professional Background
+
+My professional background combines **consulting, technology, finance and industrial operations**.
+
+### Digital Transformation Consultant & Project Manager
+
+Currently managing multiple digital transformation, AI, data and business innovation projects.
+
+My work spans the full project lifecycle:
+
+**Discovery → Diagnosis → Solution Design → Roadmap → Pilot → Implementation → Adoption**
+
+I work with multidisciplinary teams and stakeholders to connect business challenges with practical technological solutions.
+
+### Finance & Risk Technology — Accenture
+
+Worked on large banking transformation and regulatory data initiatives involving:
+
+- IRB and EBA regulatory frameworks
+- IFRS 9
+- PD / LGD / EAD / RWA models
+- SQL-based data analysis
+- international stakeholders and technology teams
+
+This experience strengthened my ability to work with **complex data, regulated environments and large-scale transformation programmes**.
+
+### Industrial Project Management
+
+Before moving into consulting and digital transformation, I worked in chemical and naval industrial environments managing projects, teams and operational delivery.
+
+That experience gave me a strong understanding of **operations, processes, engineering constraints and execution in real-world environments**.
+
+---
+
+## 🎓 Education
+
+### Master's Degree in Industry 4.0
+**Universitat Politècnica de Catalunya (UPC)** · 2025–2026
+
+Digital Twins · Simulation · IoT · Data Analytics · Smart Operations · Industry 4.0
+
+### Master's Degree in Chemical Engineering
+**IQS – Universitat Ramon Llull**
+
+### Bachelor's Degree in Chemical Engineering
+**IQS – Universitat Ramon Llull**
+
+---
+
+## 🚀 Current Focus
+
+I'm particularly interested in projects and roles where:
+
+### AI + Data + Technology + Business Transformation
+
+come together to create measurable operational or business impact.
+
+Current areas of interest:
+
+`AI Transformation` · `AI Adoption` · `Digital Transformation` · `Technology Program Management` · `Data & Analytics` · `Industry 4.0`
+
+---
+
+## 📍 About Me
+
+Based in **Barcelona, Spain**.
+
+Interested in complex transformation challenges where understanding both the **business problem and the technology behind the solution** makes the difference.
+
+🔗 [Explore my projects](https://github.com/paumr90?tab=repositories)
