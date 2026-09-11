@@ -2,7 +2,7 @@
 
 ### Chemical Engineer · Digital Transformation & AI Project Manager · Business × Technology
 
-I'm a **Chemical Engineer and Project Manager with 9+ years of experience** across consulting, technology, banking, data and industrial environments.
+I'm a **Chemical Engineer and Project Manager with 10+ years of experience** across consulting, technology, banking, data and industrial environments.
 
 My career has evolved from **engineering and industrial project management into digital transformation, data and AI**, giving me a multidisciplinary perspective that connects **business, technology, operations and people**.
 
