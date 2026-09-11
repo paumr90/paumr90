@@ -46,51 +46,23 @@ Currently completing a **Master's Degree in Industry 4.0 at Universitat Politèc
 
 ### 🔵 Strategy & Transformation
 
-![Strategy Consulting](https://img.shields.io/badge/Strategy_Consulting-2563EB?style=flat-square)
-![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-2563EB?style=flat-square)
-![Business Analysis](https://img.shields.io/badge/Business_Analysis-2563EB?style=flat-square)
-![Business Models](https://img.shields.io/badge/Business_Models-2563EB?style=flat-square)
-![Feasibility](https://img.shields.io/badge/Feasibility-2563EB?style=flat-square)
-![Roadmapping](https://img.shields.io/badge/Roadmapping-2563EB?style=flat-square)
-![Change Management](https://img.shields.io/badge/Change_Management-2563EB?style=flat-square)
+`Strategy Consulting` · `Digital Transformation` · `Business Analysis` · `Business Models` · `Feasibility` · `Roadmapping` · `Change Management`
 
 ### 🟣 AI & Technology Adoption
 
-![AI Adoption](https://img.shields.io/badge/AI_Adoption-7C3AED?style=flat-square)
-![AI Governance](https://img.shields.io/badge/AI_Governance-7C3AED?style=flat-square)
-![Technology Mentoring](https://img.shields.io/badge/Technology_Mentoring-7C3AED?style=flat-square)
-![Use Case Definition](https://img.shields.io/badge/Use_Case_Definition-7C3AED?style=flat-square)
-![PoC / Pilots](https://img.shields.io/badge/PoC_%2F_Pilots-7C3AED?style=flat-square)
-![Solution Design](https://img.shields.io/badge/Solution_Design-7C3AED?style=flat-square)
+`AI Adoption` · `AI Governance` · `Technology Mentoring` · `Use Case Definition` · `PoC / Pilots` · `Solution Design`
 
 ### 🟢 Data & Software
 
-![Python](https://img.shields.io/badge/Python-15803D?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803D?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-15803D?style=flat-square)
-![BigQuery](https://img.shields.io/badge/BigQuery-15803D?style=flat-square)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-15803D?style=flat-square)
-![R](https://img.shields.io/badge/R-15803D?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-15803D?style=flat-square)
-![Git](https://img.shields.io/badge/Git-15803D?style=flat-square)
+`Python` · `PostgreSQL` · `SQL` · `BigQuery` · `Looker Studio` · `R` · `Docker` · `Git`
 
 ### 🟠 Industry 4.0 & Engineering
 
-![Digital Twins](https://img.shields.io/badge/Digital_Twins-EA580C?style=flat-square)
-![FlexSim](https://img.shields.io/badge/FlexSim-EA580C?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT-EA580C?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-EA580C?style=flat-square)
-![AGV Simulation](https://img.shields.io/badge/AGV_Simulation-EA580C?style=flat-square)
-![Industrial Simulation](https://img.shields.io/badge/Industrial_Simulation-EA580C?style=flat-square)
+`Digital Twins` · `FlexSim` · `IoT` · `MQTT` · `AGV Simulation` · `Industrial Simulation`
 
 ### ⚫ Project Delivery
 
-![Project Management](https://img.shields.io/badge/Project_Management-374151?style=flat-square)
-![Discovery](https://img.shields.io/badge/Discovery-374151?style=flat-square)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-374151?style=flat-square)
-![Workshops](https://img.shields.io/badge/Workshops-374151?style=flat-square)
-![Multidisciplinary Teams](https://img.shields.io/badge/Multidisciplinary_Teams-374151?style=flat-square)
-![Implementation](https://img.shields.io/badge/Implementation-374151?style=flat-square)
+`Project Management` · `Discovery` · `Stakeholder Management` · `Workshops` · `Multidisciplinary Teams` · `Implementation`
 
 ---
 
