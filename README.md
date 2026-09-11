@@ -1,8 +1,8 @@
 # Hi, I'm Pau 👋
 
-### Chemical Engineer · Strategy & Digital Transformation Consultant · AI Project Manager
+### Chemical Engineer · Business & Digital Transformation Consultant · AI Project Manager
 
-I'm a **Chemical Engineer, Strategy Consultant and Project Manager with 10+ years of experience** across consulting, technology, banking, industrial environments and the social sector.
+I'm a **Chemical Engineer, Business Consultant and Project Manager with 10+ years of experience** across consulting, technology, banking, industrial environments and the social sector.
 
 My career has evolved from **engineering and industrial project management into strategy consulting, digital transformation, data and AI**, giving me a multidisciplinary perspective that connects **business, technology, operations and people**.
 
@@ -16,7 +16,7 @@ Currently completing a **Master's Degree in Industry 4.0 at Universitat Politèc
 
 ## 🔧 What I Do
 
-- **Strategy Consulting** → diagnosis, business models, feasibility, strategic roadmaps and decision support
+- **Business and strategy Consulting** → diagnosis, business models, feasibility, strategic roadmaps and decision support
 - **Digital Transformation** → digital diagnostics, system mapping, target architectures and transformation roadmaps
 - **AI Adoption** → use-case identification, governance, implementation strategy and organisational adoption
 - **Technology Mentoring** → supporting teams and organisations in shaping, validating and implementing technology-driven projects
@@ -37,7 +37,6 @@ Currently completing a **Master's Degree in Industry 4.0 at Universitat Politèc
 | 🏭 **Passport Twin** | Digital Twin · BI · Data | Master's Final Project combining Business Intelligence and Digital Twin concepts to transform operational data into a decision-support environment. |
 | 🚉 **Transit Simulation** | FlexSim · Simulation · Optimization | Discrete-event simulation of passenger flows and transport operations to analyse different service frequencies and system performance. |
 | 📡 **Industrial IoT** | IoT · MQTT · Connected Systems | Industry 4.0 project exploring device communication, messaging architectures and industrial data exchange using MQTT. |
-| 🤖 **AGV Picking Simulation** | Intralogistics · AGV · Simulation | Simulation of automated picking and material flows to analyse resource utilisation and operational performance. |
 
 > More projects and Master's Degree work will be added as the portfolio evolves.
 
@@ -69,11 +68,11 @@ Currently completing a **Master's Degree in Industry 4.0 at Universitat Politèc
 
 ## 💼 Professional Background
 
-My professional background combines **strategy consulting, technology, finance, industrial operations and social impact**.
+My professional background combines **business & strategy consulting, technology, finance, industrial operations and social impact**.
 
-### Strategy & Digital Transformation Consultant
+### Business & Digital Transformation Consultant
 
-For the last three years, I have worked as a consultant and project manager in the social and impact sector, leading multiple projects across strategy, digital transformation, technology and innovation.
+For the last three years, I have worked as a consultant and project manager in the social and impact sector, leading multiple projects across social economy sector, industry, energy, mobility, agri-food, technology, digital transformation and innovation.
 
 My work spans the full project lifecycle:
 
