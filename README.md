@@ -10,7 +10,7 @@ I'm currently completing a Master's Degree in Industry 4.0 at Universitat Polit�
 
 ## Featured projects
 
-### 🤖 Career Copilot
+### 🤖 [Career Copilot](https://github.com/paumr90/career-copilot)
 
 AI-enabled career management platform designed to structure professional profiles, evaluate opportunities and support the job application lifecycle.
 
