@@ -34,7 +34,7 @@ Currently completing a **Master's Degree in Industry 4.0 at Universitat Politèc
 | Project | Focus | Description |
 |---|---|---|
 | [🤖 Career Copilot](https://github.com/paumr90/career-copilot) | AI · Python · PostgreSQL · Docker | AI-assisted career management and job application decision-support system combining structured data, deterministic rules, governance and LLM capabilities. |
-| [🏭 Passport Twin](https://github.com/project-mi40/passporttwin)) | Digital Twin · BI · Data | Master's Final Project co-developed with [Alexander Castillo](https://github.com/alexanderj-castillo)), combining Business Intelligence and Digital Twin concepts to transform operational data into a decision-support environment. |
+| [🏭 Passport Twin](https://github.com/project-mi40/passporttwin) | Digital Twin · BI · Data | Master's Final Project co-developed with [Alexander Castillo](https://github.com/alexanderj-castillo), combining Business Intelligence and Digital Twin concepts to transform operational data into a decision-support environment. |
 | [🚌 FlexSim Transit Simulation](https://github.com/paumr90/flexsim-transit-simulation) | Discrete-Event Simulation · Operations · Optimization | FlexSim simulation of bus operations at Barcelona Estació del Nord, analysing passenger queues, waiting times and demand-adaptive service frequencies. |
 | 📡 **Industrial IoT** | IoT · MQTT · Connected Systems | Industry 4.0 project exploring device communication, messaging architectures and industrial data exchange using MQTT. |
 
